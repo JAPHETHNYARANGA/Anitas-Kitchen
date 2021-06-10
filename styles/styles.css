@@ -34,15 +34,18 @@ body , html{
 }
 #happy{
     background-color:white;
-    height:105px;
+    height:55px;
     width:350px;
     margin:0;
     font-size: large;
+    padding:50px 0 0 0;
+
 }
 #party{
     background-color: red;
-    height:105px;
+    height:55px;
     width:350px;
     margin:0;
     font-size: large;
+    padding:50px 0 0 0;
 }
