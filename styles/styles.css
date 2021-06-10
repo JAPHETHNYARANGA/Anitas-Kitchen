@@ -16,6 +16,7 @@ body , html{
      background-size: cover;
      background-position: center;
      text-align: center;
+     /* exact dimensions of the image*/
      width:1400px;
      height:636px; 
      
@@ -51,10 +52,7 @@ body , html{
     font-size: large;
     padding:50px 0 0 0;
 }
-.breakfast>img{
-    position: relative;
-    
-}
+
 .breakfast>p, .lunch>p, .dinner>p{
     position:relative;
     bottom:140px;
