@@ -30,17 +30,19 @@ body , html{
 .happy{
     display: flex;
     flex-direction: column;
-    
+
 }
 #happy{
     background-color:white;
     height:105px;
     width:350px;
     margin:0;
+    font-size: large;
 }
 #party{
     background-color: red;
     height:105px;
     width:350px;
     margin:0;
+    font-size: large;
 }
