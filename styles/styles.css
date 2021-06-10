@@ -83,8 +83,12 @@ body , html{
     
 }
 
-.drinks{
+
+.drink-images{
     display:flex;
     flex-direction: row;
+    /* original images dimensions */
+    position:relative;
+    left:900px;
+    bottom:100px;
 }
-   
