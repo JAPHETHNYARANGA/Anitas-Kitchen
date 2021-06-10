@@ -67,7 +67,10 @@ body , html{
     /* original image dimensions */
     height:245px;
     width:390px;
-    margin:50px 0 0 80px;
+    margin:60px 0 0 280px;
+}
+.section2-texts{
+    text-align: center;
 }
 
    
