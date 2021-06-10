@@ -1,0 +1,46 @@
+body , html{
+    height:100%;
+}
+.landing{
+    text-align: center;
+}
+.background>img{
+    text-align: center;
+}
+    
+.background1{
+     background-image: url('/images/landing.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     text-align: center;
+     width:1400px;
+     height:636px; 
+     
+}
+#top-logo{
+    position:relative;
+    top:100px;
+    text-align: center;
+    color:white;
+}
+.landing-b{
+    display: flex;
+}
+.happy{
+    display: flex;
+    flex-direction: column;
+    
+}
+#happy{
+    background-color:white;
+    height:105px;
+    width:350px;
+    margin:0;
+}
+#party{
+    background-color: red;
+    height:105px;
+    width:350px;
+    margin:0;
+}
