@@ -51,3 +51,14 @@ body , html{
     font-size: large;
     padding:50px 0 0 0;
 }
+.breakfast>img{
+    position: relative;
+    
+}
+.breakfast>p{
+    position:relative;
+    bottom:140px;
+    color:white;
+}
+
+   
