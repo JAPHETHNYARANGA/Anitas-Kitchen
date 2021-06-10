@@ -76,7 +76,9 @@ body , html{
 }
 .section2-texts>button{
     border: red;
-    padding:30px;
+    padding:10PX 30PX;
     background-color: white;
+    border:2px solid red;
+    
 }
    
