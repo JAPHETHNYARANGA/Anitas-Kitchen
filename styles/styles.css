@@ -70,7 +70,13 @@ body , html{
     margin:60px 0 0 280px;
 }
 .section2-texts{
-    text-align: center;
+    position:relative;
+    bottom:250px;
+    left:850px;
 }
-
+.section2-texts>button{
+    border: red;
+    padding:30px;
+    background-color: white;
+}
    
