@@ -87,8 +87,18 @@ body , html{
 .drink-images{
     display:flex;
     flex-direction: row;
-    /* original images dimensions */
     position:relative;
     left:900px;
     bottom:100px;
 }
+#drinks{
+    position:relative;
+    left:300px;
+    bottom:450px;
+}
+
+#drinks>button{
+    border: red;
+    padding:10PX 30PX;
+    background-color: white;
+    border:2px solid red;
