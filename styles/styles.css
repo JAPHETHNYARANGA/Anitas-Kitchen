@@ -1,5 +1,6 @@
 body , html{
     height:100%;
+    width:1400px;
     
 }
 
@@ -106,11 +107,21 @@ body , html{
     border:2px solid red;
 }
 .section-3{
+    
     background-image: url('/images/foodsBg.jpg');
     background-repeat: no-repeat;
     position:relative;
-    height:599;
+    /* original image dimensions */
+    height:599px;
     width:1400px;
-    
+    display:flex;
+    flex-direction:row;
 
+}
+.chicken, .beef-burger, .chicken-pizza{
+    position:relative;
+    top:180px;
+    left:200px;
+    margin: 10px;
+    
 }
