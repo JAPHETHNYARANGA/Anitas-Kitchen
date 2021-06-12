@@ -137,19 +137,35 @@ bottom:24px;
     
 }
 .section-4{
+    position:relative;
+    left:200px;
     display:flex;
     flex-direction: row;
+    margin-top: 100px;
+    margin-bottom: 100px;
     padding-top: 100px;
     text-align: center;
+    box-sizing: border-box;
+    width: 950px;
+    border: solid black 1px;
+    padding: 5px;
+    box-shadow:5px black;
+    
+    
   
 }
 .section-4 h3{
     color:red;
+    
 }
 
-.customers{
-    margin:0 150px 0 100px;
+ .customers{
+    /* position:relative;
+    left:120px; */
+    margin: 0 10px 0 40px;
 }
-.about-menu{
-    margin:0 100px 0 150px;
-}
+ .about-menu{
+    /* position:relative;
+    right:120px; */
+    margin:0 0 0 40px;
+} 
