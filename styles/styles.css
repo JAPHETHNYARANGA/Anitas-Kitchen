@@ -238,3 +238,25 @@ input{
     font-size: 24px;
 
 }
+.icons{
+    position:absolute;
+    left:620px;
+    
+    
+}
+#fb{
+    margin-right:30px;
+    transform: rotate(45deg);
+}
+#tw{
+    margin-right:30px;
+    transform: rotate(45deg);
+}
+#pt{
+    
+    transform: rotate(45deg);
+}
+.last{
+    position:absolute;
+    top:70px;
+}
