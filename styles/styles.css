@@ -213,11 +213,21 @@ input{
     position: relative;
     display: flex;
     left:600px;
-    top:30px
+    top:30px;
+    font-size:30px;
+
     
 }
 #menu{
     position:relative;
     left:700px;
-    bottom:20px;
+    bottom:30px;
+    font-size:30px;
+}
+.footer>p{
+    position:relative;
+    bottom:35px;
+    left:600px;
+    font-size: 24px;
+
 }
