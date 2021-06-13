@@ -251,6 +251,18 @@ th{
     right:120px; */
     margin:0 0 0 40px;
 } 
+#right{
+    position:relative;
+    left:100px;
+    bottom:50px;
+    color:red;
+}
+#left{
+    position:relative;
+    right:100px;
+    top:60px;
+    color:red;
+}
 .last-background{
     background-image: url('/images/subscribe.jpg');
     background-repeat: no-repeat;
