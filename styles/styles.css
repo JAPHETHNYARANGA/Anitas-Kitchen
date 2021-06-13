@@ -20,7 +20,7 @@ body , html{
 }
     
 .background1{
-     background-image: url('./images/landing.jpg');
+     background-image: url('/images/landing.jpg');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -157,7 +157,7 @@ bottom:24px;
 } */
 
 .fooditems{
-    background-image: url('./images/foodsBg.jpg');
+    background-image: url('/images/foodsBg.jpg');
     width:1400px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -252,7 +252,7 @@ th{
     margin:0 0 0 40px;
 } 
 .last-background{
-    background-image: url('./images/subscribe.jpg');
+    background-image: url('/images/subscribe.jpg');
     background-repeat: no-repeat;
     height: 301px;
 }
